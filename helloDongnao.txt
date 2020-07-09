@@ -7,3 +7,4 @@ hello test reset head xxxx!
 hello checkout!
 hello alias!
 hello dev branch!
+test
