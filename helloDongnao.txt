@@ -2,3 +2,4 @@ hello Dongnao!
 hello Dongnao VIP!
 hello diff!
 hello VIP!
+git diff --cached!
