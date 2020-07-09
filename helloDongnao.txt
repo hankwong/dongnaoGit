@@ -4,3 +4,5 @@ hello diff!
 hello VIP!
 git diff --cached!
 hello test reset head xxxx!
+hello checkout!
+hello alias!
