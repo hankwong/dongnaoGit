@@ -6,3 +6,4 @@ git diff --cached!
 hello test reset head xxxx!
 hello checkout!
 hello alias!
+hello dev branch!
