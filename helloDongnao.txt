@@ -11,3 +11,4 @@ master test
 test
 master devTwo
 fast forward
+no fast forward
