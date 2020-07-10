@@ -8,3 +8,4 @@ hello checkout!
 hello alias!
 hello dev branch!
 master test
+test
