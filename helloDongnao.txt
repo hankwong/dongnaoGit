@@ -1,15 +1,1 @@
-hello Dongnao!
-hello Dongnao VIP!
-hello diff!
-hello VIP!
-git diff --cached!
-hello test reset head xxxx!
-hello checkout!
-hello alias!
-hello dev branch!
-master test
-test
-master devTwo
-fast forward
-no fast forward
-auto no fast forward
+master dev rebase
