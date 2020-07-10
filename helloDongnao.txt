@@ -12,3 +12,4 @@ test
 master devTwo
 fast forward
 no fast forward
+auto no fast forward
