@@ -1,3 +1,1 @@
-master dev rebase
-dev rebase
-bug dev
+git diff patch
