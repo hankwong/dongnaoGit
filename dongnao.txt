@@ -1,6 +1,1 @@
-hello Dongnao!
-hello Dongnao VIP!
-hello diff!
-hello VIP!
-git diff --cached!
-master auto no fast forward
+1
